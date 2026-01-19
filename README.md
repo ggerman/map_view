@@ -1,3 +1,5 @@
+<img alt="Map View" src="docs/images/logo.png" width="250" />
+
 # map_view
 
 Server-side maps for Ruby on Rails.
